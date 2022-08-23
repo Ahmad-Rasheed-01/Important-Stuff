@@ -4,7 +4,7 @@
 Some Custom Shell Scripts.
 
 # How to Clone my Project
-      https://github.com/ahmad5130/Important-Stuff.git
+      https://github.com/Ahmad-Rasheed-01/Important-Stuff.git
 # 1st Script:Docker Install   
 
    Main Menu
